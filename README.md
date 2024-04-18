@@ -32,11 +32,3 @@ As a frontend developer, I am responsible for creating visually appealing and us
 <a href="http://www.github.com/deepak-tiwari-dt"><img src="https://github-readme-stats.vercel.app/api?username=deepak-tiwari-dt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="deepak-tiwari-dt's GitHub stats" /></a>
 
 <a href="http://www.github.com/deepak-tiwari-dt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-tiwari-dt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/deepak-tiwari-dt/Meditation-Clock" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-tiwari-dt&repo=Meditation-Clock&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/deepak-tiwari-dt/tokyo-revengers-characters" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-tiwari-dt&repo=tokyo-revengers-characters&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/deepak-tiwari-dt/Meal-Api-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-tiwari-dt&repo=Meal-Api-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/deepak-tiwari-dt/Markdown-Previewer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-tiwari-dt&repo=Markdown-Previewer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
