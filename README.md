@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Deepak Tiwari**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepak Tiwari
 =====================================================================================================================================
 
-**Frontend Developer**
+Frontend Developer
 ------------------
 
 As a frontend developer, I am responsible for creating visually appealing and user-friendly web applications. We work closely with design teams to translate design mockups into interactive web pages using HTML, CSS, JavaScript, and React. I ensure that the application is responsive and works well across different devices and browsers. I will also collaborate with backend developers to integrate frontend components with backend logic.
