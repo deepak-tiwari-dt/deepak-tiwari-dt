@@ -14,6 +14,11 @@ As a frontend developer, I am responsible for creating visually appealing and us
 * 🤝  I'm open to collaborating on Frontend Projects
 * ⚡  I love reading books and solving sudoku problems in leisure time
 
+## Contributions
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/deepak-tiwari-dt/deepak-tiwari/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 ### Skills
 
 
