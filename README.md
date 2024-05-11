@@ -14,13 +14,6 @@ As a frontend developer, I am responsible for creating visually appealing and us
 * 🤝  I'm open to collaborating on Frontend Projects
 * ⚡  I love reading books and solving sudoku problems in leisure time
 
-## Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ### Skills
 
 
