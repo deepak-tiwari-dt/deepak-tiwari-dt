@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Deepak Tiwari." />
 </h1>
 
+<div align="center" >
+   <a href="https://github.com/deepak-tiwari-dt">
+   <img width=100% src="https://raw.githubusercontent.com/deepak-tiwari-dt/deepak-tiwari-dt/ouput/action2.gif" href="https://github.com/deepak-tiwari-dt" /></a>
+</div>
+
 Frontend Developer
 ------------------
 
