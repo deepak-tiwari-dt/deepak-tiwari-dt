@@ -5,7 +5,7 @@
 Frontend Developer
 ------------------
 
-As a frontend developer, I am responsible for creating visually appealing and user-friendly web applications. We work closely with design teams to translate design mockups into interactive web pages using HTML, CSS, JavaScript, and React. I ensure that the application is responsive and works well across different devices and browsers. I will also collaborate with backend developers to integrate frontend components with backend logic.
+As a Frontend Developer, I turn design mockups into interactive, responsive web apps using frameworks, ensuring seamless experiences across all devices and browsers.
 
 * 🌍  I'm based in Balasore, Odisha, India
 * 🖥️  See my portfolio at [Bento](http://bento.me/deepak-tiwari)
