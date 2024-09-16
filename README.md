@@ -10,9 +10,6 @@ As a Frontend Developer, I turn design mockups into interactive, responsive web 
 * 🌍  I'm based in Balasore, Odisha, India
 * 🖥️  See my portfolio at [Bento](http://bento.me/deepak-tiwari)
 * ✉️  You can contact me at [deepak.tiwari.d21@gmail.com](mailto:deepak.tiwari.d21@gmail.com)
-* 🧠  I'm learning Next.js, TypeScript
-* 🤝  I'm open to collaborating on Frontend Projects
-* ⚡  I love reading books and solving sudoku problems in leisure time
 
 ### Skills
 
