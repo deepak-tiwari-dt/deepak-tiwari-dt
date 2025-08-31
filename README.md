@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Deepak Tiwari." />
 </h1>
 
-Frontend Developer
+Full Stack Developer
 ------------------
 
-As a Frontend Developer, I turn design mockups into interactive, responsive web apps using frameworks, ensuring seamless experiences across all devices and browsers.
+As a Full Stack Developer, I craft end-to-end web applications by seamlessly bridging intuitive, responsive frontend interfaces with scalable, secure backend systems. I translate design mockups into dynamic user experiences using modern frontend frameworks, while building robust APIs and managing databases to ensure smooth functionality, performance, and cross-device compatibility.
 
 * 🌍  I'm based in Balasore, Odisha, India
 * 🖥️  See my portfolio at [Bento](http://bento.me/deepak-tiwari)
