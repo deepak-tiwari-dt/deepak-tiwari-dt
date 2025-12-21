@@ -1,7 +1,7 @@
 Full Stack Developer
 ------------------
 
-As a Full Stack Developer, I craft end-to-end web applications by seamlessly bridging intuitive, responsive frontend interfaces with scalable, secure backend systems. I translate design mockups into dynamic user experiences using modern frontend frameworks, while building robust APIs and managing databases to ensure smooth functionality, performance, and cross-device compatibility.
+Full-Stack Software Engineer building scalable, cloud-native web applications with React, Node.js, and TypeScript. Experienced in delivering high-performance frontends, robust backend APIs, and production-grade architectures on AWS and Firebase. Currently building agentic AI–powered SaaS platforms at AriveGuru.
 
 * 🌍  I'm based in Balasore, Odisha, India
 * 🖥️  See my portfolio at [Bento](http://bento.me/deepak-tiwari)
