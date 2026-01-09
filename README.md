@@ -1,6 +1,6 @@
 Full Stack Developer
 ------------------
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/4b9ff388-4869-471c-91ff-7e4605ca0cfb/thumbnail" >
 </p>
 
