@@ -1,5 +1,8 @@
 Full Stack Developer
 ------------------
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/4b9ff388-4869-471c-91ff-7e4605ca0cfb/thumbnail" >
+</p>
 
 Full-Stack Software Engineer building scalable, cloud-native web applications with React, Node.js, and TypeScript. Experienced in delivering high-performance frontends, robust backend APIs, and production-grade architectures on AWS and Firebase. Currently building agentic AI–powered SaaS platforms at AriveGuru.
 
