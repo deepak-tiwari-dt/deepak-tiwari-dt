@@ -16,7 +16,6 @@ Currently building **agentic AI-powered SaaS platforms** at AriveGuru.
 - **Location:** Bangalore, KA, India
 - **Phone:** +91 6371230821
 - **Current Company:** AriveGuru
-- **Status:** Available for work
 
 ## Socials
 
@@ -28,7 +27,7 @@ Currently building **agentic AI-powered SaaS platforms** at AriveGuru.
 ## About
 
 - **2.2+** Years Experience
-- **116+** Projects Built
+- **117+** Projects Built
 - **3+** Cloud Platforms
 
 ## Skills & Technologies
@@ -136,16 +135,3 @@ I'm always open to new opportunities, collaborations, and interesting problems. 
 - **LinkedIn:** [linkedin.com/in/dtiwari21](https://www.linkedin.com/in/dtiwari21)
 - **GitHub:** [github.com/deepak-tiwari-dt](https://www.github.com/deepak-tiwari-dt)
 - **X / Twitter:** [x.com/dtiwari_25](https://www.x.com/dtiwari_25)
-
-## Message Template
-
-If you'd like to reuse the contact form content in Markdown:
-
-- **Your Name:** Deepak Tiwari
-- **Email:** deepak.tiwari.d21@gmail.com
-- **Message:** Tell me about your project...
-
----
-
-© 2026 Deepak Tiwari. All Rights Reserved.  
-Built with love by Deepak Tiwari.
