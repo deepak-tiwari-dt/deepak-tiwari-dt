@@ -14,7 +14,6 @@ Currently building **agentic AI-powered SaaS platforms** at AriveGuru.
 - **Name:** Deepak Tiwari
 - **Role:** Full Stack Engineer
 - **Location:** Bangalore, KA, India
-- **Phone:** +91 6371230821
 - **Current Company:** AriveGuru
 
 ## Socials
@@ -26,8 +25,8 @@ Currently building **agentic AI-powered SaaS platforms** at AriveGuru.
 
 ## About
 
-- **2.2+** Years Experience
-- **119+** Projects Built
+- **2.3+** Years Experience
+- **123+** Projects Built
 - **3+** Cloud Platforms
 
 ## Skills & Technologies
