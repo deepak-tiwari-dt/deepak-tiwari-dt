@@ -25,7 +25,7 @@ Currently building **agentic AI-powered SaaS platforms** at AriveGuru.
 
 ## About
 
-- **2.9+** Years Experience
+- **2.10+** Years Experience
 - **127+** Projects Built
 - **3+** Cloud Platforms
 
